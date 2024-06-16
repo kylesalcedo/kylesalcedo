@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 hello. doctor of physical therapy, health IT / medtech advisor, and hand model.
 
 <!--
 **kylesalcedo/kylesalcedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
