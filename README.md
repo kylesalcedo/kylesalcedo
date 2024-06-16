@@ -1,6 +1,6 @@
-##### 👋 hello.
-##### :v: doctor of physical therapy, health IT / medtech advisor, and hand model.
-##### 👌 prompt engineer, ai/ml, python.
+#### 👋 hello.
+#### :v: doctor of physical therapy, health IT / medtech advisor, and hand model.
+#### 👌 prompt engineer, ai/ml, python.
 
 - Currently working on building CTO and PM skills.
 - Responsible for user feedback/experience/statistics for products I work with. 
