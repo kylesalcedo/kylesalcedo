@@ -1,4 +1,4 @@
-### 👋 hello.
+### 👋 hello, git world.
 ### :v: doctor of physical therapy, health IT / medtech advisor, and hand model.
 ### 👌 prompt engineer, ai/ml, python.
 
