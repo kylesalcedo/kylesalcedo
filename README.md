@@ -1,4 +1,6 @@
-## 👋 hello. doctor of physical therapy, health IT / medtech advisor, and hand model.
+### 👋 hello.
+### :v: doctor of physical therapy, health IT / medtech advisor, and hand model.
+### 👌 prompt engineer, ai/ml, python.
 
 <!--
 **kylesalcedo/kylesalcedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
