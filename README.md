@@ -4,7 +4,7 @@
 
 ### 👋 hello, git world.
 ### :v: doctor of physical therapy, health IT / medtech advisor, and hand model.
-### 👌 Vibe CTO.
+### 👌 vibe CTO.
 
 - Currently working on building CTO, Director of Engineering, and PM skills. Never not continuing to learn ai/ml and python.
 - If there's something I do daily, I work towards automating and/or optimizing it.
