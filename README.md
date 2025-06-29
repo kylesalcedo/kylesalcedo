@@ -2,13 +2,41 @@
   <img src="https://i.pinimg.com/736x/5c/6e/b0/5c6eb0761aefab98ce730260b1f9d1d8.jpg" alt="only hands can wash hands" />
 </p>
 
-### 👋 hello, git world.
-### :v: doctor of physical therapy, health IT / medtech advisor, and hand model.
-### 👌 vibe CTO.
+```
+#      _________  ___________  ___________
+#     |         ||           ||           |
+#     |  🖥️  🖥️  ||   🖥️  🖥️   ||   🖥️  🖥️   |
+#     |_________||___________||___________|
+#           hacker rack: status → alive
 
-- Currently working on building CTO, Director of Engineering, and PM skills. Never not continuing to learn ai/ml and python.
-- If there's something I do daily, I work towards automating and/or optimizing it.
-- Responsible for prompt engineering, QA engineering, and user feedback/experience/statistics for products I work with.
+class WhoAmI:
+    def __init__(self):
+        self.greeting = "👋 hello, git world."
+        self.🖐️ = "Doctor of Physical Therapy"
+        self.🤌 = "Health IT / MedTech advisor & hand model"
+        self.👌 = "Vibe CTO"
+
+        self.leveling_up = [
+            "CTO leadership",
+            "Director of Engineering systems",
+            "Product Management instinct"
+        ]
+
+        self.always_learning = ["AI/ML", "Python"]
+        self.daily_protocol = "Automate or optimize anything I touch."
+
+        self.ownership = [
+            "Prompt engineering",
+            "QA engineering",
+            "User feedback, experience, and product stats"
+        ]
+
+    def __repr__(self):
+        return f"<{self.👌} | {self.🖐️} + {self.🤌}>"
+
+print(WhoAmI())
+```
+
 
 <!--
 wow ur HERE!
