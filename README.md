@@ -5,7 +5,7 @@
 ```
 #      _________  ___________  ___________
 #     |         ||           ||           |
-#     |  🖥️  🖥️  ||   🖥️  🖥️   ||   🖥️  🖥️   |
+#     | 🖥️  🖥️ ||  🖥️  🖥️  ||  🖥️  🖥️  |
 #     |_________||___________||___________|
 #           hacker rack status active
 
@@ -16,7 +16,7 @@ class WhoAmI:
         self.👍 = "Health IT / MedTech Advisor & Hand model"
         self.👌 = "Vibe CTO"
 
-        self.leveling_up = [
+        self.stats_to_max = [
             "CTO leadership",
             "Director of Engineering systems",
             "Product Management instinct"
@@ -25,8 +25,8 @@ class WhoAmI:
         self.always_learning = ["AI/ML", "Python"]
         self.daily_protocol = "Automate or optimize anything I touch."
 
-        self.ownership = [
-            "Prompt engineering",
+        self.synthesize = [
+            "Prompt / context engineering",
             "QA engineering",
             "User feedback, experience, and product stats"
         ]
