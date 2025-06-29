@@ -7,13 +7,13 @@
 #     |         ||           ||           |
 #     |  🖥️  🖥️  ||   🖥️  🖥️   ||   🖥️  🖥️   |
 #     |_________||___________||___________|
-#           hacker rack: status → alive
+#           hacker rack status active
 
 class WhoAmI:
     def __init__(self):
         self.greeting = "👋 hello, git world."
         self.🖐️ = "Doctor of Physical Therapy"
-        self.🤌 = "Health IT / MedTech advisor & hand model"
+        self.👍 = "Health IT / MedTech Advisor & Hand model"
         self.👌 = "Vibe CTO"
 
         self.leveling_up = [
@@ -32,7 +32,7 @@ class WhoAmI:
         ]
 
     def __repr__(self):
-        return f"<{self.👌} | {self.🖐️} + {self.🤌}>"
+        return f"<{self.👌} | {self.🖐️} + {self.👍}>"
 
 print(WhoAmI())
 ```
