@@ -7,7 +7,7 @@
 #     |         ||           ||           |
 #     | 🖥️  🖥️ ||  🖥️  🖥️  ||  🖥️  🖥️  |
 #     |_________||___________||___________|
-#           hacker rack status active
+#       🖥 hackin rack is status active ⌨
 
 class WhoAmI:
     def __init__(self):
