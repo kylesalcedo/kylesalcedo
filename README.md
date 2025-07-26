@@ -3,11 +3,11 @@
 </p>
 
 ```
-#      _________  ___________  ___________
-#     |         ||           ||           |
-#     | 🖥️  🖥️ ||  🖥️  🖥️  ||  🖥️  🖥️  |
-#     |_________||___________||___________|
-#       🖥 hackin rack is status active ⌨
+#     __________________   __________________   __________________
+#    |                  | |                  | |                  |
+#    |    🖥️    🖥️     | |    🖥️    🖥️     | |    🖥️    🖥️     |
+#    |__________________| |__________________| |__________________|
+#         🖥 hackin rack is status: active ⌨
 
 class WhoAmI:
     def __init__(self):
@@ -19,17 +19,56 @@ class WhoAmI:
         self.stats_to_max = [
             "CTO leadership",
             "Director of Engineering systems",
-            "Product Management instinct"
+            "Product Management instinct",
         ]
 
         self.always_learning = ["AI/ML", "Python"]
-        self.daily_protocol = "Automate or optimize anything I touch."
+        self.daily_protocol = "Automate or optimize everything I touch."
 
         self.synthesize = [
-            "Prompt / context engineering",
+            "Prompt/context engineering",
             "QA engineering",
-            "User feedback, experience, and product stats"
+            "User feedback loops, UX, product telemetry",
         ]
+
+        self._webcam = None
+        self._ops_laptop = None
+
+        self.rigs = {
+            "mac": {
+                "model": "MacBook Air M2",
+                "cpu": "Apple Silicon 8-core",
+                "use_case": "Build, ship, orchestrate on the go",
+            },
+            "pc": {
+                "case": "Lian Li O11 Dynamic XL",
+                "motherboard": "ASUS ROG Strix B850-F (AM5, DDR5)",
+                "cpu": "Ryzen 9 7900X (12c/24t)",
+                "gpu": "NVIDIA EVGA RTX 3080 Ti XC3 Ultra",
+                "ram": "Corsair Vengeance RGB 64GB DDR5 6400MHz",
+                "cooling": "iCUE Link TITAN 240 RX + RX120 RGB (x6)",
+                "storage": [
+                    "2TB Samsung 990 EVO Plus (Gen4)",
+                    "1TB SanDisk SSD",
+                ],
+                "monitors": [
+                    'ASUS TUF VG32AQL1A 32" QHD (2560x1440, IPS, 170Hz, 1ms)',
+                    'ASUS VG278Q 27" (1080p, 144Hz, 1ms)',
+                ],
+                "peripherals": [
+                    "Corsair K70 MK2 (MX Blue)",
+                    "Logitech G502 Hero",
+                    "Drop + Sennheiser PC38X",
+                    self._webcam,
+                ],
+                "use_case": "See you on the leaderboards.",
+            },
+            "ops_laptop": {
+                "device": self._ops_laptop,
+                "os": "classified",
+                "use_case": "Field diagnostics, Wi-Fi sniffing, other legal things.",
+            },
+        }
 
     def __repr__(self):
         return f"<{self.👌} | {self.🖐️} + {self.👍}>"
@@ -38,45 +77,6 @@ print(WhoAmI())
 ```
 
 <!--
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
-void
 void
 void
 void
