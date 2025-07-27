@@ -38,7 +38,7 @@ class WhoAmI:
             "mac": {
                 "model": "MacBook Air M2",
                 "cpu": "Apple Silicon 8-core",
-                "use_case": "Build, ship, orchestrate on the go",
+                "use_case": "Build, ship, orchestrate on the go.",
             },
             "pc": {
                 "case": "Lian Li O11 Dynamic XL",
@@ -56,7 +56,7 @@ class WhoAmI:
                     'ASUS VG278Q 27" (1080p, 144Hz, 1ms)',
                 ],
                 "peripherals": [
-                    "Corsair K70 MK2 (MX Blue)",
+                    "Razer Huntsman V3 Pro Tenkeyless",
                     "Logitech G502 Hero",
                     "Drop + Sennheiser PC38X",
                     self._webcam,
