@@ -57,7 +57,7 @@ class WhoAmI:
                 ],
                 "peripherals": [
                     "Razer Huntsman V3 Pro Tenkeyless",
-                    "Logitech G502 Hero",
+                    "Logitech G502X Plus",
                     "Drop + Sennheiser PC38X",
                     self._webcam,
                 ],
