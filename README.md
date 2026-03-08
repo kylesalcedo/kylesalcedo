@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/5c/6e/b0/5c6eb0761aefab98ce730260b1f9d1d8.jpg" alt="only hands can wash hands" />
 </p>
 
-- 🖐️ **[Hand Universe](https://www.kylesalcedo.com/hands/universe)** - Gesture-interactive 3D Hand Modeling portfolio built with Three.js + React Three Fiber. Your hand controls the hands.  
+- 🖐️ **[Hand Universe](https://www.kylesalcedo.com/hands/universe)** - Interactive 3D Hand Modeling portfolio built with Three.js + React Three Fiber. Your hand controls the hands.  
 - 🪨 **[Sisyphus Clicker](https://kylesalcedo.github.io/sisyphus/sisyphus.html)** - Train your fingers, test your meaning, and imagine yourself happy with this clicker game!
 
 ```
