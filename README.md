@@ -4,6 +4,7 @@
 
 - 🖐️ **[Hand Universe](https://www.kylesalcedo.com/hands/universe)** - Interactive 3D Hand Modeling portfolio built with Three.js + React Three Fiber. Your hand controls the hands.  
 - 🪨 **[Sisyphus Clicker](https://kylesalcedo.github.io/sisyphus/sisyphus.html)** - Train your fingers, test your meaning, and imagine yourself happy with this clicker game!
+- ⌨️ **[Daedalus Digits](https://kylesalcedo.github.io/daedalus-digits/)** - Navigate a labyrinth of passages and craft coordination with your digits.
 
 ```
 #     __________________   __________________   __________________
@@ -80,7 +81,6 @@ print(WhoAmI())
 ```
 
 <!--
-void
 void
 void
 void
